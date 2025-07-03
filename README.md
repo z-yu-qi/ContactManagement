@@ -1,7 +1,4 @@
 # vue_demo
-
-> djin的项目
-
 ## Build Setup
 
 ``` bash
